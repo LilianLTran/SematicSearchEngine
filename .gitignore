@@ -1,0 +1,4 @@
+data/
+spikes/
+.venv/
+.DS_Store
